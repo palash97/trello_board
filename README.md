@@ -1,3 +1,12 @@
+Trello board coded in react, using create-react-app . There are some bugs and I have not invested myself to resolve them as I created this as a part of 
+some interview and never got back to have it perfectly working.
+
+Just clone the repo and run "npm start" from terminal.
+
+Below is the default readme of create-react-app
+
+Thanks !
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
